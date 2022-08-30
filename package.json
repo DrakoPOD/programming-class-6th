@@ -20,13 +20,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@traptitech/markdown-it-katex": "^3.6.0",
-    "katex": "^0.16.1",
-    "markdown-it": "^13.0.1",
-    "markdown-it-katex": "^2.0.3",
-    "markdown-it-latex": "^0.2.0",
     "markdown-it-mathjax3": "^4.3.1",
-    "markdown-it-texmath": "^1.0.0",
     "vitepress": "1.0.0-alpha.12",
     "vue": "^3.2.37"
   },
