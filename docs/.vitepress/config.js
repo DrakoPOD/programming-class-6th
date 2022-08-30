@@ -9,6 +9,7 @@ import markdownItKatex from "@iktakahiro/markdown-it-katex";
 //const customElements = ['mjx-container'];
 
 const customElements = [
+  'mjx-container',
   'math',
   'maction',
   'maligngroup',
