@@ -101,7 +101,7 @@ export default defineConfig({
   title: "Aprendiendo a Programar",
   description:
     "Una guía para estudiantes de secundaria para aprender a programar en JavaScript",
-    base: "programming-class-6th",
+    base: "/programming-class-6th/",
   themeConfig: {
     sidebar: [
       {
