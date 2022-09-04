@@ -11,11 +11,14 @@ export default defineConfig({
   themeConfig: {
     sidebar: [
       {
-        text: "Intro",
+        text: "I - Intro",
         items: [
-          { text: "Introducción", link: "/intro/01-intro" },
-          { text: "Conceptos claves", link: "/intro/02-conceptosClaves" },
-          { text: "Entiendo la Lógica", link: "/intro/03-entendiendoLogica" },
+          { text: "A - Introducción", link: "/intro/01-intro" },
+          { text: "B - Conceptos claves", link: "/intro/02-conceptosClaves" },
+          { text: "C - Entiendo la Lógica", link: "/intro/03-entendiendoLogica"},
+          { text: "D - Diagramas de flujo", link: "/intro/04-diagramasFlujo", items: [
+            {text: 'Ejercicios', link: '/intro/041-ejercicioFlujo'}
+          ]  },
         ],
       },
     ],

@@ -49,7 +49,7 @@ $$
 f(x) = x * 2
 $$
 
-Es una función que tiene como entrada a $x$ y la multiplica por dos, escrito en código sería algo como lo siguiente:
+Es una función que tiene como entrada a *x* y la multiplica por dos, escrito en código sería algo como lo siguiente:
 
 
 ```javascript

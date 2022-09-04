@@ -31,6 +31,10 @@ Pero, la mayoría de ellos comparte ciertas cosas, ciertas funciones, métodos, 
 
 ## Avanzados
 
+::: warning Info
+Estos temas no serán trabajados dado a que son muy complejos y extensos, solo serán mencionados.
+:::
+
 - **ReGex
 - Patrones de diseño
 - Git
