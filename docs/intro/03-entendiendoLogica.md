@@ -31,13 +31,15 @@ Esta es la secuencia que seguirá el programa, no se se saltará pasos, siguiend
 
 La programación son como las matemáticas, solo que sin muchos números, de hecho, una computadora no entiende nuestro lenguaje, solo entiende números `1` y `0`.
 
-> Un procesador, ya sea de nuestras computadoras o nuestros celulares, lo que hace es realizar operaciones matemáticas, la música, videos, interfaces gráficas, videojuegos, no son más que números para nuestra computadora.
+::: info
+Un procesador, ya sea de nuestras computadoras o nuestros celulares, lo que hace es realizar operaciones matemáticas, la música, videos, interfaces gráficas, videojuegos, no son más que números para nuestra computadora.
+:::
 
 Cuando programamos lo hacemos con palabras, no números. Por ejemplo, `print()` en python, que es español es imprimir, es una función nos permite mostrar mensajes por la terminal/consola, `while` ("mientras" en español) es una función que permite repetir una sección de código, `append()` ("añadir" en español) un método que nos permite añadir más elemento a una lista (es decir, `arreglos` o `array`).
 
-> :memo: **Nota:**
-> 
-> La mayoría de de los lenguajes de programación están en inglés, por lo que saber inglés facilita mucho el aprendizaje de estos.
+::: tip :memo: **Nota:**
+La mayoría de de los lenguajes de programación están en inglés, por lo que saber inglés facilita mucho el aprendizaje de estos.
+:::
 
 Las computadoras no entienden nuestro lenguajes, así que se requiere de compilarse, es decir, convertir las palabras a números que las computadoras puedan entender, algunos lenguajes no requieren de compilación dado que estos ejecutan el código directamente, a estos lenguajes se les denomina `lenguaje interpretado`, ejemplos de estos son `python` y `javascript`.
 
@@ -62,7 +64,9 @@ function f(x) {
 
 Una función que toma como parámetro un número y lo devuelve multiplica por dos, no es para nada distinto si a la ecuación de arriba si se mira bien. (`function` es "función" en español y `return` es "devolver/retornar")
 
-> Siempre digo, si sabes matemáticas, ya sabes programar.
+::: tip
+Siempre digo, si sabes matemáticas, ya sabes programar.
+:::
 
 # Ejercicios
 

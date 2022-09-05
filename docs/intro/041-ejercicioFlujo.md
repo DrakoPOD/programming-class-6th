@@ -55,4 +55,4 @@ Un diagrama de flujo que se ingrese un número y se deben sumar los números des
 
 ## Otros Ejercicios
 
-Si los ejercicios anteriores te parecieron un poco complicados, practica realizando diagramas de flujo de actividades cotidianas, como los mostrados en la sección [I-C: Entendiendo la Lógica](03-entendiendoLogica.md#ejercicios).
+Si los ejercicios anteriores te parecieron un poco complicados, practica realizando diagramas de flujo de actividades cotidianas, como los mostrados en la sección [I-C: Entendiendo la Lógica](03-entendiendoLogica.md#ejercicios), son más fáciles dado que estos tienen más libertad de creación.
