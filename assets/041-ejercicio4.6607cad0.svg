@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export 041-ejercicio4.svg Página-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="5.28647in" height="6.87702in" viewBox="0 0 380.626 495.146" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st11">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#d80073;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {fill:#ffffff;font-family:Segoe UI;font-size:1.16666em;font-weight:bold}
+		.st4 {marker-end:url(#mrkr4-11);stroke:#1998d6;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st5 {fill:#1998d6;fill-opacity:1;stroke:#1998d6;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st6 {fill:#f09609;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st7 {font-size:1em}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:#1076a7;font-family:Segoe UI;font-size:1.16666em;font-weight:bold}
+		.st10 {fill:#339933;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-11" class="st5" refX="-4.24" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>Página-1</title>
+		<g id="shape1026-1" transform="translate(0.25,-0.25)">
+			<title>Hoja.1026</title>
+			<rect x="0" y="0.500004" width="380.126" height="494.646" class="st1"/>
+		</g>
+		<g id="shape1000-3" transform="translate(81.3209,-433.951)">
+			<title>Inicio o finalización.1000</title>
+			<desc>Inicio</desc>
+			<path d="M14.17 495.15 L56.69 495.15 A14.1732 14.1732 -180 0 0 56.69 466.8 L14.17 466.8 A14.1732 14.1732 -180 1 0 14.17
+						 495.15 Z" class="st2"/>
+			<text x="17.36" y="485.17" class="st3">Inicio</text>		</g>
+		<g id="shape1002-6" transform="translate(109.667,-433.951)">
+			<title>Conector dinámico.1002</title>
+			<path d="M7.09 495.15 L7.09 518.91" class="st4"/>
+		</g>
+		<g id="shape1021-12" transform="translate(65.1634,-343.951)">
+			<title>Datos.1021</title>
+			<desc>Ingrese número &#60; num &#62;</desc>
+			<path d="M-14.17 495.15 L89.01 495.15 L117.35 438.45 L14.17 438.45 L-14.17 495.15 Z" class="st6"/>
+			<text x="27.36" y="454.2" class="st3">Ingrese <tspan x="25.86" dy="1.2em" class="st7">número </tspan><tspan x="22.95"
+						dy="1.2em" class="st7">&#60; num &#62;</tspan></text>		</g>
+		<g id="shape1004-17" transform="translate(109.667,-343.951)">
+			<title>Conector dinámico.1004</title>
+			<path d="M7.09 495.15 L7.09 523.16" class="st4"/>
+		</g>
+		<g id="shape1003-22" transform="translate(73.2421,-263.872)">
+			<title>Decisión.1003</title>
+			<desc>num &#62; 0</desc>
+			<path d="M0 473.89 L43.51 452.63 L87.02 473.89 L43.51 495.15 L0 473.89 Z" class="st2"/>
+			<text x="17.72" y="478.09" class="st3">num &#62; 0</text>		</g>
+		<g id="shape1006-25" transform="translate(109.667,-263.872)">
+			<title>Conector dinámico.1006</title>
+			<desc>No</desc>
+			<path d="M7.09 495.15 L7.09 528.13" class="st4"/>
+			<rect x="-2.72283" y="508.006" width="19.6191" height="16.8" class="st8"/>
+			<text x="-2.72" y="520.61" class="st9">No</text>		</g>
+		<g id="shape1005-32" transform="translate(73.2421,-178.833)">
+			<title>Decisión.1005</title>
+			<desc>num &#60; 0</desc>
+			<path d="M0 473.89 L43.51 452.63 L87.02 473.89 L43.51 495.15 L0 473.89 Z" class="st2"/>
+			<text x="17.72" y="478.09" class="st3">num &#60; 0</text>		</g>
+		<g id="shape1008-35" transform="translate(109.667,-178.833)">
+			<title>Conector dinámico.1008</title>
+			<desc>No</desc>
+			<path d="M7.09 495.15 L7.09 528.13" class="st4"/>
+			<rect x="-2.72283" y="508.006" width="19.6191" height="16.8" class="st8"/>
+			<text x="-2.72" y="520.61" class="st9">No</text>		</g>
+		<g id="shape1022-42" transform="translate(65.1634,-93.7933)">
+			<title>Documento.1022</title>
+			<desc>El número es 0</desc>
+			<path d="M0 489.83 L0 452.63 L103.18 452.63 L103.18 489.83 A65.254 65.254 -180 0 0 51.59 489.83 A65.254 65.254 0 0 1
+						 0 489.83 Z" class="st10"/>
+			<text x="3.46" y="472.77" class="st3">El número es 0</text>		</g>
+		<g id="shape1010-45" transform="translate(160.266,-292.218)">
+			<title>Conector dinámico.1010</title>
+			<desc>Sí</desc>
+			<path d="M0 502.23 L41.34 502.23" class="st4"/>
+			<rect x="19.5281" y="493.833" width="11.826" height="16.8" class="st8"/>
+			<text x="19.53" y="506.43" class="st9">Sí</text>		</g>
+		<g id="shape1023-52" transform="translate(211.148,-261.037)">
+			<title>Documento.1023</title>
+			<desc>El número es positivo</desc>
+			<path d="M0 489.12 L0 446.96 L103.18 446.96 L103.18 489.12 A58.2441 58.2441 -180 0 0 51.59 489.12 A58.2441 58.2441 0
+						 0 1 0 489.12 Z" class="st10"/>
+			<text x="9.41" y="460.83" class="st3">El número es <tspan x="25.12" dy="1.2em" class="st7">positivo</tspan></text>		</g>
+		<g id="shape1012-56" transform="translate(160.266,-193.006)">
+			<title>Conector dinámico.1012</title>
+			<desc>Sí</desc>
+			<path d="M0 488.06 L41.34 488.06" class="st4"/>
+			<rect x="19.5281" y="479.659" width="11.826" height="16.8" class="st8"/>
+			<text x="19.53" y="492.26" class="st9">Sí</text>		</g>
+		<g id="shape1024-63" transform="translate(211.148,-175.998)">
+			<title>Documento.1024</title>
+			<desc>El número es negativo</desc>
+			<path d="M0 489.12 L0 446.96 L103.18 446.96 L103.18 489.12 A58.2441 58.2441 -180 0 0 51.59 489.12 A58.2441 58.2441 0
+						 0 1 0 489.12 Z" class="st10"/>
+			<text x="9.41" y="460.83" class="st3">El número es <tspan x="22.68" dy="1.2em" class="st7">negativo</tspan></text>		</g>
+		<g id="shape1018-67" transform="translate(109.667,-99.1083)">
+			<title>Conector dinámico.1018</title>
+			<path d="M7.09 495.15 L7.09 533.44" class="st4"/>
+		</g>
+		<g id="shape1017-72" transform="translate(81.3209,-22.9272)">
+			<title>Inicio o finalización.1017</title>
+			<desc>Fin</desc>
+			<path d="M14.17 495.15 L56.69 495.15 A14.1732 14.1732 -180 0 0 56.69 466.8 L14.17 466.8 A14.1732 14.1732 -180 1 0 14.17
+						 495.15 Z" class="st2"/>
+			<text x="25.57" y="485.17" class="st3">Fin</text>		</g>
+		<g id="shape1020-75" transform="translate(314.329,-285.132)">
+			<title>Conector dinámico.1020</title>
+			<path d="M0 495.15 L21.26 495.15 L21.26 743.18 L-152.6 743.18" class="st4"/>
+		</g>
+		<g id="shape1025-80" transform="translate(314.329,-193.006)">
+			<title>Conector dinámico.1025</title>
+			<path d="M0 488.06 L11.72 488.06" class="st4"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export 041-ejercicio1.svg Página-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="3.3893in" height="5.3578in" viewBox="0 0 244.03 385.762" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st10">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#d80073;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {fill:#ffffff;font-family:Segoe UI;font-size:1.00001em;font-weight:bold}
+		.st4 {marker-end:url(#mrkr4-11);stroke:#1998d6;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st5 {fill:#1998d6;fill-opacity:1;stroke:#1998d6;stroke-opacity:1;stroke-width:0.47169811320755}
+		.st6 {fill:#1ba1e2;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st7 {font-size:1em}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st9 {fill:#1076a7;font-family:Segoe UI;font-size:1.00001em;font-weight:bold}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-11" class="st5" refX="-4.24" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.12,-2.12) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>Página-1</title>
+		<g id="shape1002-1" transform="translate(0.125,-0.125)">
+			<title>Hoja.1002</title>
+			<rect x="0" y="0.250011" width="243.78" height="385.512" class="st1"/>
+		</g>
+		<g id="shape1-3" transform="translate(39.81,-345.952)">
+			<title>Inicio o finalización</title>
+			<desc>Inicio</desc>
+			<path d="M14.17 385.76 L56.69 385.76 A14.1732 14.1732 -180 0 0 56.69 357.42 L14.17 357.42 A14.1732 14.1732 -180 1 0 14.17
+						 385.76 Z" class="st2"/>
+			<text x="19.94" y="375.19" class="st3">Inicio</text>		</g>
+		<g id="shape10-6" transform="translate(68.1565,-345.952)">
+			<title>Conector dinámico</title>
+			<path d="M7.09 385.76 L7.09 418.74" class="st4"/>
+		</g>
+		<g id="shape9-12" transform="translate(39.81,-260.912)">
+			<title>Proceso</title>
+			<desc>Verificar si hay café</desc>
+			<rect x="0" y="343.242" width="70.8661" height="42.5197" class="st6"/>
+			<text x="5.59" y="360.9" class="st3">Verificar si <tspan x="12.05" dy="1.2em" class="st7">hay café</tspan></text>		</g>
+		<g id="shape12-16" transform="translate(68.1565,-260.912)">
+			<title>Conector dinámico.12</title>
+			<path d="M7.09 385.76 L7.09 417.32" class="st4"/>
+		</g>
+		<g id="shape11-21" transform="translate(39.81,-174.456)">
+			<title>Decisión</title>
+			<desc>¿Hay café?</desc>
+			<path d="M0 363.08 L35.43 340.41 L70.87 363.08 L35.43 385.76 L0 363.08 Z" class="st2"/>
+			<text x="21.75" y="359.48" class="st3">¿Hay <tspan x="21.15" dy="1.2em" class="st7">café?</tspan></text>		</g>
+		<g id="shape14-25" transform="translate(110.676,-204.219)">
+			<title>Conector dinámico.14</title>
+			<desc>No</desc>
+			<path d="M0 392.85 L32.98 392.85" class="st4"/>
+			<rect x="12.8515" y="385.649" width="16.8168" height="14.4001" class="st8"/>
+			<text x="12.85" y="396.45" class="st9">No</text>		</g>
+		<g id="shape13-32" transform="translate(153.196,-175.873)">
+			<title>Proceso.13</title>
+			<desc>Preparar el café</desc>
+			<rect x="0" y="343.242" width="70.8661" height="42.5197" class="st6"/>
+			<text x="4.55" y="360.9" class="st3">Preparar el <tspan x="23.78" dy="1.2em" class="st7">café</tspan></text>		</g>
+		<g id="shape16-36" transform="translate(68.1565,-174.456)">
+			<title>Conector dinámico.16</title>
+			<desc>Sí</desc>
+			<path d="M7.09 385.76 L7.09 417.32" class="st4"/>
+			<rect x="2.01816" y="399.113" width="10.1368" height="14.4001" class="st8"/>
+			<text x="2.02" y="409.91" class="st9">Sí</text>		</g>
+		<g id="shape15-43" transform="translate(39.81,-90.8337)">
+			<title>Proceso.15</title>
+			<desc>Servir el café</desc>
+			<rect x="0" y="343.242" width="70.8661" height="42.5197" class="st6"/>
+			<text x="12.48" y="360.9" class="st3">Servir el <tspan x="23.78" dy="1.2em" class="st7">café</tspan></text>		</g>
+		<g id="shape18-47" transform="translate(68.1565,-90.8337)">
+			<title>Conector dinámico.18</title>
+			<path d="M7.09 385.76 L7.09 418.74" class="st4"/>
+		</g>
+		<g id="shape17-52" transform="translate(39.81,-19.9675)">
+			<title>Inicio o finalización.17</title>
+			<desc>Fin</desc>
+			<path d="M14.17 385.76 L56.69 385.76 A14.1732 14.1732 -180 0 0 56.69 357.42 L14.17 357.42 A14.1732 14.1732 -180 1 0 14.17
+						 385.76 Z" class="st2"/>
+			<text x="26.98" y="375.19" class="st3">Fin</text>		</g>
+		<g id="shape19-55" transform="translate(188.629,-175.873)">
+			<title>Conector dinámico.19</title>
+			<path d="M0 385.76 L0 449.54 L-68.41 449.54" class="st4"/>
+		</g>
+	</g>
+</svg>
