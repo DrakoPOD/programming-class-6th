@@ -25,6 +25,10 @@ export default defineConfig({
             link: "/intro/04-diagramasFlujo",
             items: [{ text: "Ejercicios", link: "/intro/041-ejercicioFlujo" }],
           },
+          {
+            text: "E - Compuertas lógicas",
+            link: "/intro/05-logicGates",
+          },
         ],
       },
       {

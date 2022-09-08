@@ -6,8 +6,6 @@ Un programa sigue instrucciones de una tarea en un orden lógico, las computador
 
 Ahora miremos el siguiente código:
 ```python
-# Python
-
 numero = 6
 numero = numero * 2
 numero = numero - 2
@@ -51,12 +49,9 @@ $$
 f(x) = x * 2
 $$
 
-Es una función que tiene como entrada a *x* y la multiplica por dos, escrito en código sería algo como lo siguiente:
-
+Es una función que tiene como entrada a $x$ y la multiplica por dos, escrito en código sería algo como lo siguiente:
 
 ```javascript
-// JavaScript
-
 function f(x) {
     return x * 2
 }
