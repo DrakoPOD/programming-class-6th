@@ -1,7 +1,7 @@
 [Home](/)
 
-[Introducción](./intro/01-intro)
+[Introducción](./01-intro)
 
-[Conceptos claves](./intro/02-conceptosClaves)
+[Conceptos claves](./02-conceptosClaves)
 
-[Conceptos claves](./intro/03-entendiendoLogica)
+[Entendiendo la lógica](./03-entendiendoLogica)
