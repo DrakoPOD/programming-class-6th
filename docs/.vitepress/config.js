@@ -26,8 +26,12 @@ export default defineConfig({
             items: [{ text: "Ejercicios", link: "/intro/041-ejercicioFlujo" }],
           },
           {
-            text: "E - Compuertas lógicas",
-            link: "/intro/05-logicGates",
+            text: "E - Números binarios",
+            link: "/intro/05-binario",
+          },
+          {
+            text: "F - Compuertas lógicas",
+            link: "/intro/06-logicGates",
           },
         ],
       },
