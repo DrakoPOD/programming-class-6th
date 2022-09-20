@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 import mathjax3 from "markdown-it-mathjax3";
 
-const customElements = ["mjx-container"];
+const customElements = ["mjx-container", "tab"];
 
 export default defineConfig({
   title: "Aprendiendo a Programar",
@@ -38,7 +38,10 @@ export default defineConfig({
       {
         text: "Básicos",
         collapsible: true,
-        items: [{ text: "Variables", link: "/basics/01-variables" }],
+        items: [
+          { text: "Antes de empezar", link: "/basics/00-before" },
+          { text: "Variables", link: "/basics/01-variables" },
+        ],
       },
     ],
   },

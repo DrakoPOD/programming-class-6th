@@ -95,3 +95,4 @@ La disyunción solo es verdadera cuando ambos valores son distintos, no pueden v
 Hagamos el siguiente ejemplo, hacer la tabla de verdad de la siguiente proposición. Vamos a descartar los argumentos de `p` y `q` dado que no son necesarios para este ejemplo.
 
 $$ (p \wedge q) \lor \lnot p $$
+
