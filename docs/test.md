@@ -1,4 +1,4 @@
-<TabComponent>
+<!-- <TabComponent>
 
 <template label="js" #js>
 
@@ -28,4 +28,4 @@ BBB
     <Tab label="ts">bbbbb</Tab>
     <Tab label="python">ccc</Tab>
 
-</Tabs>
+</Tabs> -->
