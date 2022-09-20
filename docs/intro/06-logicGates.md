@@ -96,3 +96,32 @@ Hagamos el siguiente ejemplo, hacer la tabla de verdad de la siguiente proposici
 
 $$ (p \wedge q) \lor \lnot p $$
 
+<div style="display: flex; justify-content: center;">
+
+|  $p$  |  $q$  | $\lnot q$ | $(p \wedge q)$ | $(p \wedge q) \lor \lnot p$ |
+| :---: | :---: | :-------: | :------------: | :-------------------------: |
+|  $V$  |  $V$  |    $F$    |      $V$       |             $V$             |
+|  $V$  |  $F$  |    $V$    |      $F$       |             $V$             |
+|  $F$  |  $V$  |    $F$    |      $F$       |             $F$             |
+|  $F$  |  $F$  |    $V$    |      $F$       |             $V$             |
+
+
+</div>
+
+## Ejercicios
+
+#### Realizar la tabla de verdad de la siguiente proposiciones
+
+1. $(p \wedge q) \veebar r$
+2. $p \wedge q \wedge r$
+3. $(p \lor r) \wedge (q \veebar \lnot p)$
+
+#### Tomando en cuenta los siguientes valores, decir el resultado final de las siguientes proposiciones
+
+- $p = V$
+- $q = F$
+- $r = F$
+
+1. $(\lnot r \wedge p) \veebar \lnot p$
+2. $\lnot (r \wedge q)$
+3. $q \wedge (r \veebar (p \wedge \lnot q))$
