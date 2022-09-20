@@ -58,11 +58,11 @@ console.log("Hola mundo");
 5. Luego abriremos el archivo `index.html` en el navegador, generalmente al abrir se nos abrirá en el navegador automáticamente, de no ser así, solo arrastren el archivo al navegador. Debería de salir una página en blanco.
 6. Damos clic derecho y luego `inspeccionar`
 
-![ejemplo1](2022-09-20-12-58-57.png)
+![ejemplo1](/assets/00-ejemplo1.png)
 
-7. Se nos abrirá un panel, y luego le damos a consola/console:
+1. Se nos abrirá un panel, y luego le damos a consola/console:
 
-![ejemplo2](2022-09-20-13-01-08.png)
+![ejemplo2](/assets/00-ejemplo2.png)
 
 Y en ese lugar debería salir 
 
