@@ -41,6 +41,8 @@ export default defineConfig({
         items: [
           { text: "Antes de empezar", link: "/basics/00-before" },
           { text: "Variables", link: "/basics/01-variables" },
+          { text: "Condicionales", link: "/basics/02-conditional" },
+          { text: "Bucles", link: "/basics/03-loop" },
         ],
       },
     ],
