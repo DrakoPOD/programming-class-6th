@@ -1,0 +1,32 @@
+.table-div {
+  overflow-x: scroll;
+  overflow-x: hidden;
+}
+@media only screen and (max-width: 750px) {
+  .table-div {
+    padding: 0px;
+
+    margin-left: -24px;
+    margin-right: -24px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .table-div tr td:nth-child(4) {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+.t-02-1-col {
+  min-width: 100px;
+}
+.t-02-2-col {
+  min-width: 120px;
+}
+.t-02-3-col {
+  min-width: 160px;
+}
+.t-02-4-col {
+  min-width: 250px;
+}

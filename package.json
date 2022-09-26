@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
+    "docs:host": "vitepress dev docs --host",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
@@ -22,9 +23,7 @@
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.1",
     "vitepress": "1.0.0-alpha.12",
-    "vue": "^3.2.37"
-  },
-  "dependencies": {
-    "@iktakahiro/markdown-it-katex": "^4.0.1"
+    "vue": "^3.2.37",
+    "vue3-tabs-component": "^1.1.0"
   }
 }

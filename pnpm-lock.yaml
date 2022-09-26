@@ -1,18 +1,16 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@iktakahiro/markdown-it-katex': ^4.0.1
   markdown-it-mathjax3: ^4.3.1
   vitepress: 1.0.0-alpha.12
   vue: ^3.2.37
-
-dependencies:
-  '@iktakahiro/markdown-it-katex': 4.0.1
+  vue3-tabs-component: ^1.1.0
 
 devDependencies:
   markdown-it-mathjax3: 4.3.1
   vitepress: 1.0.0-alpha.12
   vue: 3.2.37
+  vue3-tabs-component: 1.1.0_vue@3.2.37
 
 packages:
 
@@ -203,12 +201,6 @@ packages:
     dev: true
     optional: true
 
-  /@iktakahiro/markdown-it-katex/4.0.1:
-    resolution: {integrity: sha512-kGFooO7fIOgY34PSG8ZNVsUlKhhNoqhzW2kq94TNGa8COzh73PO4KsEoPOsQVG1mEAe8tg7GqG0FoVao0aMHaw==}
-    dependencies:
-      katex: 0.12.0
-    dev: false
-
   /@types/web-bluetooth/0.0.15:
     resolution: {integrity: sha512-w7hEHXnPMEZ+4nGKl/KDRVpxkwYxYExuHOYXyzIzCDzEZ9ZCGMAewulr9IqJu2LR4N37fcnb1XVeuZ09qgOxhA==}
     dev: true
@@ -390,10 +382,6 @@ packages:
       parse5-htmlparser2-tree-adapter: 6.0.1
       tslib: 2.4.0
     dev: true
-
-  /commander/2.20.3:
-    resolution: {integrity: sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==}
-    dev: false
 
   /commander/6.2.1:
     resolution: {integrity: sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA==}
@@ -746,13 +734,6 @@ packages:
       - encoding
     dev: true
 
-  /katex/0.12.0:
-    resolution: {integrity: sha512-y+8btoc/CK70XqcHqjxiGWBOeIL8upbS0peTPXTvgrh21n1RiWWcIpSWM+4uXq+IAgNh9YYQWdc7LVDPDAEEAg==}
-    hasBin: true
-    dependencies:
-      commander: 2.20.3
-    dev: false
-
   /magic-string/0.25.9:
     resolution: {integrity: sha512-RmF0AsMzgt25qzqqLc1+MbHmhdx0ojF2Fvs4XnOqz2ZOBXzzkEwc/dJQZCYHAn7v1jbVOjAZfK8msRn4BxO4VQ==}
     dependencies:
@@ -1008,6 +989,14 @@ packages:
       '@vue/runtime-dom': 3.2.37
       '@vue/server-renderer': 3.2.37_vue@3.2.37
       '@vue/shared': 3.2.37
+    dev: true
+
+  /vue3-tabs-component/1.1.0_vue@3.2.37:
+    resolution: {integrity: sha512-QDg4uuApnp1NoVSSgZa9LRsDS4urBwMaKV3I5SNsgODUZiDqzOxEfyYJiN/0LeIJAv12d8sIU4e87hID3VXoAQ==}
+    peerDependencies:
+      vue: ^3.0.0
+    dependencies:
+      vue: 3.2.37
     dev: true
 
   /web-resource-inliner/6.0.1:

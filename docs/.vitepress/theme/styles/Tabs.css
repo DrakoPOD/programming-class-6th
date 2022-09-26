@@ -1,0 +1,37 @@
+.tabs-component-tabs {
+  display: flex;
+  margin-bottom: 0px !important;
+}
+
+.tabs-component-tab {
+  display: inline-block;
+  margin-top: 0 !important;
+  margin-right: 10px;
+  padding: 4px 6px;
+  color: var(--vp-c-brand);
+  border: 1px solid var(--vp-c-divider-light);
+  border-radius: 10px 10px 0 0;
+}
+
+.tabs-component-tab.is-active {
+  border-bottom: 2px var(--vp-c-brand) solid;
+}
+
+.tabs-component-panels {
+  border: 1px solid var(--vp-c-divider-light);
+  padding: 4px 10px;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 650px) {
+  .tabs-component-panels {
+    width: 100hv;
+    margin-left: -24px;
+    margin-right: -24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 0px;
+    border-left: 0px;
+    border-right: 0px;
+  }
+}
