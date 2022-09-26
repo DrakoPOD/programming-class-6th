@@ -55,14 +55,14 @@ Muchos lenguajes de programación requieren de compiladores y otras herramientas
 console.log("Hola mundo");
 ```
 
-5. Luego abriremos el archivo `index.html` en el navegador, generalmente al abrir se nos abrirá en el navegador automáticamente, de no ser así, solo arrastren el archivo al navegador. Debería de salir una página en blanco.
+5. Luego abriremos el archivo `index.html` en el navegador, generalmente al abrir se nos abrirá en el navegador automáticamente, de no ser así, solo arrastren el archivo al navegador. Debería de salir una página en blanco. Los navegadores no pueden ejecutar archivos de JavaScript directamente, solo abren archivos html y ejecutan los scripts dentro del archivo, por eso el `paso 3`.
 6. Damos clic derecho y luego `inspeccionar`
 
-![ejemplo1](/assets/00-ejemplo1.png)
+![ejemplo1](./assets/00-ejemplo1.png)
 
 1. Se nos abrirá un panel, y luego le damos a consola/console:
 
-![ejemplo2](/assets/00-ejemplo2.png)
+![ejemplo2](./assets/00-ejemplo2.png)
 
 Y en ese lugar debería salir 
 

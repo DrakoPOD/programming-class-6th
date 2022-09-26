@@ -16,7 +16,7 @@ miVariable = 0;
 
 En este ejemplo hemos asignado el valor de `6` a la variable, luego le hemos cambiado a un 0. Sin embargo, durante la ejecución de un programa, no podemos ver las variables sin un **depurador (debugger)**, para poder ver su valor haremos uso del método `console.log` que nos muestra información por la consola.
 
-```js
+```js{5}
 var miVariable = 6;
 var Numero = 5;
 
@@ -24,7 +24,7 @@ console.log(miVariable);    // 6
 console.log(numero);        // undefined
 ```
 
-El último nos dió indefinido ¿Por qué? si le habías asignado un valor, pues eso es porque declaramos `Numero`, y llamamos con `numero`, la `N` la pusimos mayúscula cuando declaramos la variable y luego la llamamos con una minúscula, eso es porque JavaScript es sensible a mayúsculas y minúsculas.
+El último nos dió indefinido ¿Por qué? si le habías asignado un valor, pues eso es porque declaramos `Numero`, y llamamos con `numero`, la `N` la pusimos mayúscula cuando declaramos la variable y luego la llamamos con una minúscula, eso es porque JavaScript (y muchos otros lenguajes) es sensible a mayúsculas y minúsculas.
 
 ## Tipos de datos
 
@@ -32,7 +32,7 @@ Las variables pueden ser de varios tipos, dependiendo del tipo de información q
 
 - **Número (`number`):** como su nombre indica, almacena números, ejemplos `9`, `0.43`, `1`. En javascript las variables numéricas pueden ser enteras o de punto flotante (decimales), no hace distinción.
   - En algunos lenguajes, las variables numéricas pueden solamente aceptar caracteres enteros (`int`), por ejemplo `1`, `34`, `543`, se debe usar otro tipo de variable si se quiere usar números con punto flotante, por ejemplo `0.2`, `1.43`.
-- **Texto (`string`):** almacena cadenas de caracteres. En muchos lenguajes se suelen expresar con comillas dobles `""`, en javascript también es válido usar comillas simples `''`. `"Hola Mundo"`, `"Pedro"`, `"124"`.
+- **Texto (`string`):** almacena cadenas de caracteres. En muchos lenguajes se suelen expresar con comillas dobles `""`, en javascript también es válido usar comillas simples `''`. `'Hola Mundo'`, `"Pedro"`, `"124"`.
   - En programación se hace una diferencia con `string` y `char`, ya que algunos lenguajes tienen el tipo de datos `char`, en el cual solo almacenan un carácter, `'a'`, `'1'`, `'e'`.
 - **Lógico (`Boolean`):** esta variable solo puede almacenar el tipo lógico, es decir, `1` o `0`. Otra forma de expresar es como `true` y `false`.
 - **Nulo (`null`):** representa la ausencia intencional de cualquier valor de objeto.
@@ -276,6 +276,8 @@ if (isNaN(num)){    // isNaN es un método que recibe un valor y devuelve verdad
   console.log(num + 20);
 }
 ```
+
+Aquí hacemos uso de una condicional ver el siguiente tema, [condicionales](./02-conditional.md).
 
 Dato todos estos problemas de tipado y estructuras de datos hacía de JavaScript un lenguaje propenso a errores durante la ejecución de código en fase de producción, entonces Microsoft decidió crear **TypeScript** como una manera de solventar todas las carencias de JavaScript.
 
