@@ -43,6 +43,7 @@ export default defineConfig({
           { text: "Variables", link: "/basics/01-variables" },
           { text: "Condicionales", link: "/basics/02-conditional" },
           { text: "Bucles", link: "/basics/03-loop" },
+          { text: "Funciones", link: "/basics/04-functions" },
         ],
       },
     ],
