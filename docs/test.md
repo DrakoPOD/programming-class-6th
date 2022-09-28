@@ -30,7 +30,7 @@ BBB
 
 </Tabs> -->
 
-<Tabs>
+<!-- <Tabs>
 <Tab name="First tab">
 
 First tab content
@@ -53,4 +53,4 @@ console.log(text3);         // HolaMundo
 ```
 
 </Tab>
-</Tabs>
+</Tabs> -->
