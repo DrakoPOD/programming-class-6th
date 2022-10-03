@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.ea73af9e.js";const C=JSON.parse('{"title":"Plantillas literales","description":"","frontmatter":{},"headers":[],"relativePath":"basics/00-templateLiteral.md"}'),e={name:"basics/00-templateLiteral.md"},p=l("",9),o=[p];function r(c,t,i,D,d,y){return n(),a("div",null,o)}const u=s(e,[["render",r]]);export{C as __pageData,u as default};

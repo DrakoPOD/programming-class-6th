@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as s}from"./app.ea73af9e.js";const h=JSON.parse('{"title":"Sistema binario","description":"","frontmatter":{},"headers":[],"relativePath":"intro/05-binario.md"}'),i={name:"intro/05-binario.md"},n=s("",3),t=[n];function r(c,d,_,m,l,u){return o(),a("div",null,t)}const b=e(i,[["render",r]]);export{h as __pageData,b as default};
