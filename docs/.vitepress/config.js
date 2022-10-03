@@ -44,6 +44,15 @@ export default defineConfig({
           { text: "Condicionales", link: "/basics/02-conditional" },
           { text: "Bucles", link: "/basics/03-loop" },
           { text: "Funciones", link: "/basics/04-functions" },
+          { text: "Arreglos", link: "/basics/05-array" },
+        ],
+      },
+      {
+        text: "Intermedios",
+        collapsible: true,
+        items: [
+          { text: "Objetos y Clases", link: "/inter/01-poo" },
+          //{ text: "Objetos y Clases", link: "/inter/01-poo" },
         ],
       },
     ],
